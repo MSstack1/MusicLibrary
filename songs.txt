@@ -1,0 +1,55 @@
+Bohemian Rhapsody,Queen,A Night at the Opera,Rock,354
+Love of My Life,Queen,A Night at the Opera,Rock,218
+Somebody to Love,Queen,A Day at the Races,Rock,295
+Radio Ga Ga,Queen,The Works,Pop Rock,330
+Imagine,John Lennon,Imagine,Pop,183
+Jealous Guy,John Lennon,Imagine,Pop,257
+Come Together,The Beatles,Abbey Road,Rock,259
+Hey Jude,The Beatles,Hey Jude,Rock,431
+Yesterday,The Beatles,Help!,Pop,125
+Let It Be,The Beatles,Let It Be,Rock,243
+Smells Like Teen Spirit,Nirvana,Nevermind,Grunge,301
+Come As You Are,Nirvana,Nevermind,Grunge,219
+Lithium,Nirvana,Nevermind,Grunge,257
+In Bloom,Nirvana,Nevermind,Grunge,254
+Billie Jean,Michael Jackson,Thriller,Pop,293
+Thriller,Michael Jackson,Thriller,Pop,358
+Beat It,Michael Jackson,Thriller,Rock,258
+Smooth Criminal,Michael Jackson,Bad,Pop,257
+Hotel California,Eagles,Hotel California,Rock,390
+New Kid in Town,Eagles,Hotel California,Rock,308
+Life in the Fast Lane,Eagles,Hotel California,Rock,285
+Shape of You,Ed Sheeran,Divide,Pop,263
+Perfect,Ed Sheeran,Divide,Pop,263
+Castle on the Hill,Ed Sheeran,Divide,Pop,261
+Galway Girl,Ed Sheeran,Divide,Pop,170
+Lose Yourself,Eminem,8 Mile,Hip-Hop,326
+Till I Collapse,Eminem,The Eminem Show,Hip-Hop,297
+Without Me,Eminem,The Eminem Show,Hip-Hop,291
+Mockingbird,Eminem,Encore,Hip-Hop,250
+Rolling in the Deep,Adele,21,Pop,228
+Someone Like You,Adele,21,Pop,285
+Set Fire to the Rain,Adele,21,Pop,242
+Hello,Adele,25,Pop,295
+Take On Me,A-ha,Hunting High and Low,Synthpop,225
+The Sun Always Shines on TV,A-ha,Hunting High and Low,Synthpop,309
+Africa,Toto,Toto IV,Rock,295
+Rosanna,Toto,Toto IV,Rock,337
+Sweet Child o' Mine,Guns N' Roses,Appetite for Destruction,Rock,356
+Welcome to the Jungle,Guns N' Roses,Appetite for Destruction,Rock,273
+Paradise City,Guns N' Roses,Appetite for Destruction,Rock,406
+All Star,Smash Mouth,Astro Lounge,Alt Rock,202
+Then the Morning Comes,Smash Mouth,Astro Lounge,Alt Rock,213
+Firework,Katy Perry,Teenage Dream,Pop,228
+California Gurls,Katy Perry,Teenage Dream,Pop,238
+E.T.,Katy Perry,Teenage Dream,Pop,215
+Teenage Dream,Katy Perry,Teenage Dream,Pop,230
+Old Town Road,Lil Nas X,7,Hip-Hop,157
+Panini,Lil Nas X,7,Hip-Hop,119
+Rodeo,Lil Nas X,7,Hip-Hop,149
+Blinding Lights,The Weeknd,After Hours,Synthwave,200
+Save Your Tears,The Weeknd,After Hours,Pop,215
+In Your Eyes,The Weeknd,After Hours,Pop,238
+Dreams,Fleetwood Mac,Rumours,Rock,257
+Go Your Own Way,Fleetwood Mac,Rumours,Rock,221
+The Chain,Fleetwood Mac,Rumours,Rock,268
